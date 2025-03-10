@@ -24,4 +24,8 @@ class ViDuController extends Controller
         return view('inten');
     }
         
+    function inten1()
+    {
+        return view('inten1');
+    }
 }
